@@ -17,4 +17,10 @@ This project aimed to extract answers to 10 key questions for [the Stack Overflo
 10.	What are the most common industries in which respondents who are in the 75th percentile of average salary and who work remotely are employed?
 
 <br>
+
 The answers to the above questions can be found in the attached Notebook in this repository.
+
+<br>
+
+
+![Stack_Overflow_Survey_2024](https://github.com/user-attachments/assets/6e3e3eb3-797e-401d-94ff-9b54cc1b00fa)
